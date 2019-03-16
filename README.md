@@ -10,4 +10,5 @@ Virtual Piano with ASCII based GUI by Enveriesage Studios written in x86 Assembl
 3. Compile and Run.
 
 ### Documentation
-![](Documentation/Main.png) ![](Documentation/Exit.png)
+![](Documentation/Main.png) 
+![](Documentation/Exit.png)
