@@ -46,7 +46,7 @@
     EXTB db 13,10,13,10,13,10,                                         '                        Press any Key to continue....'                              , '$'                                                                                       
     
     ;Input Variable                                        
-    INPUT   DB 128 (?)                                                
+    INPUT   DB 128 DUP(?)                                                
     PETUN   DB 'A = DO; S = MI; D = SOL; >> 0 UNTUK KELUAR' ,13,10, '$'
     STOR    DW 0        ;MEMORY                   
                                                       
